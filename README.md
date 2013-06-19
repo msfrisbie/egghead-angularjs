@@ -5,16 +5,17 @@ tutorial videos. Since the source code is not currently published, and there is 
 inaccuracies in some of the videos, the correct, completely functional solutions are presented
 here. Testing is also implemented within the framework.
 
-I am working on the equivalent of the [RailsCasts](railscasts.com) ASCIIcasts for each of the
+I am working on the equivalent of the [RailsCasts](http://railscasts.com) ASCIIcasts for each of the
 videos, stay tuned!
+
+All the individual sets of files for each video can be found in `app/lessons`.
+
 
 The application is build on top of the angular-seed stack, and setup is identical:
 
 
-## How to use angular-seed
 
-Clone the angular-seed repository and start hacking...
-
+## How to set up egghead-angularjs
 
 ### Running the app during development
 
@@ -39,7 +40,3 @@ or remote browser.
 * start `scripts/test.sh` (on windows: `scripts\test.bat`)
   * a browser will start and connect to the Karma server (Chrome is default browser, others can be captured by loading the same url as the one in Chrome or by changing the `config/karma.conf.js` file)
 * to run or re-run tests just change any of your source or test javascript files
-
-## Contact
-
-For more information on AngularJS please check out http://angularjs.org/
