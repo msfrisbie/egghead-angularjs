@@ -1,5 +1,7 @@
 # egghead-angularjs
 
+[See this project on github pages](http://msfrisbie.github.io/egghead-angularjs/)
+
 This project is an application/directory of all the [egghead.io](http://www.egghead.io/) AngularJS
 tutorial videos. Since the source code is not currently published, and there is some guesswork and
 inaccuracies in some of the videos, the correct, completely functional solutions are presented
