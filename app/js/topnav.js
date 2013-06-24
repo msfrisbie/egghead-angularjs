@@ -223,6 +223,11 @@ navApp.factory('Directory', function () {
       no: '44',
       title:"Experimental \"Controller as\" Syntax",
       length:"5:20"
+    },
+    {
+      no: '45',
+      title:"Directive Communication",
+      length:"4:27"
     }
   ];
   return Directory;
