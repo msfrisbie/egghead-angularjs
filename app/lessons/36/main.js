@@ -14,7 +14,6 @@ app.config(function ($routeProvider) {
 });
 
 var appCtrl = app.controller("AppCtrl", function ($scope, $q) {
-  console.log($route);
   $scope.model = {
     message: 'This is my app'
   };
