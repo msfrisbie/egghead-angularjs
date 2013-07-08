@@ -1,5 +1,7 @@
 # egghead-angularjs
 
+[This project is now part of thinkster.io!](http://www.thinkster.io)
+
 [See this project on github pages](http://msfrisbie.github.io/egghead-angularjs/)
 
 This project is an application/directory of all the [egghead.io](http://www.egghead.io/) AngularJS
