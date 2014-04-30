@@ -7,7 +7,7 @@ app.config(function ($routeProvider) {
       templateUrl: "app.html",
       controller: "ViewCtrl",
       resolve: {
-        loadData: viewCtrl.loadData,
+        loadData: viewCtrl.loadData
       }
     });
 });
